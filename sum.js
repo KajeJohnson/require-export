@@ -11,4 +11,8 @@ function caclculateSum(numbers) {
   return sum;
 }
 
+// OR
+//let sum = 0;
+//numbers.forEach((number) => sum += number);
+//return sum;
 module.exports = caclculateSum;
